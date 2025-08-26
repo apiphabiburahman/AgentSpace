@@ -39,7 +39,7 @@ The content of the [tag](https://github.com/NebulaiNetwork/Nebulai_Origin_Agent/
   "name" : "agent 1",
   "tag" : {1, 3, 4}
 }
-```
+```mining
 
 ## How to Contribute
 Thank you for your interest in contributing! If you would like to contribute, please follow these steps:
